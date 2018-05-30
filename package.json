@@ -50,6 +50,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://github.com/itzme-Sandeep/hello-world"
+    "url": "git://github.com/karma-runner/karma.git"
   }
 }
